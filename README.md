@@ -1,5 +1,5 @@
 # 🌦️Weather-Forecast
-Independent project
+## Independent project
   ⚡Python
   ⚡APIs
   ⚡Provides the current weather of city name inputed
