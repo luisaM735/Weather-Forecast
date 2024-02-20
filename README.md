@@ -1,6 +1,5 @@
 # 🌦️Weather-Forecast
 ## Independent project
-  unordered list:
-  ⚡Python
-  ⚡APIs
+  ⚡Python </br>
+  ⚡APIs </br>
   ⚡Provides the current weather of city name inputed
