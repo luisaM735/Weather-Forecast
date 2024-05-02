@@ -6,3 +6,5 @@
 
   ### Preview
   ![Screenshot (195)](https://github.com/luisaM735/Weather-Forecast/assets/135564937/496f6ff2-55a3-4185-8b3f-ade600a26f13)
+
+:jigsaw: [Code](https://github.com/luisaM735/Weather-Forecast/blob/main/weather.py)
